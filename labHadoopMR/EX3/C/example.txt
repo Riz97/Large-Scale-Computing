@@ -1,0 +1,4 @@
+3	pen	car	house	glass
+5	battery	phone
+6	the
+89	hi

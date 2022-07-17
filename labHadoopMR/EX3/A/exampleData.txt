@@ -1,0 +1,7 @@
+car	3
+the	6
+house	3
+phone	5
+pen	3
+glass	3
+battery	5
